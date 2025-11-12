@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# Local data (large or sensitive)
+data/embeddings/
+data/chunks/
+data/processed/
+data/raw/
+!data/.gitkeep
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Misc / temporary files
+*.pyo
+*.pyd
+
+# Old or experimental scripts
+scripts/misc/
+
+# IDE / editor settings
+.vscode/
+.idea/
