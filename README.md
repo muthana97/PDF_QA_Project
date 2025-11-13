@@ -41,8 +41,8 @@ The goal is to provide a simple and modular framework that demonstrates RAG prin
 SETUP
 1) Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pdf-rag-chatbot.git
-cd pdf-rag-chatbot
+git clone https://github.com/muthana97/pdf-qa-Project.git
+cd pdf-qa-project
 
 2) Create and activate a virtual environment by running the following bash commands
  depending on Operating system     
